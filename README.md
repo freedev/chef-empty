@@ -39,4 +39,5 @@ Include `empty` in your node's `run_list`:
 
 ## License and Authors
 
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Author:: john q. citizen (<john.q.citizen@test.test>)
+
