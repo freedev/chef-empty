@@ -1,0 +1,39 @@
+{
+  "name": "empty",
+  "description": "Installs/Configures empty",
+  "long_description": "Installs/Configures empty",
+  "maintainer": "john q. citizen",
+  "maintainer_email": "john.q.citizen@test.test",
+  "license": "All rights reserved",
+  "platforms": {
+
+  },
+  "dependencies": {
+
+  },
+  "recommendations": {
+
+  },
+  "suggestions": {
+
+  },
+  "conflicting": {
+
+  },
+  "providing": {
+
+  },
+  "replacing": {
+
+  },
+  "attributes": {
+
+  },
+  "groupings": {
+
+  },
+  "recipes": {
+
+  },
+  "version": "0.1.0"
+}
