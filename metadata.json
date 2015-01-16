@@ -1,10 +1,10 @@
 {
   "name": "empty",
   "description": "Installs/Configures empty",
-  "long_description": "Installs/Configures empty",
+  "long_description": "# empty-cookbook\n\nTODO: Enter the cookbook description here.\n\n## Supported Platforms\n\nTODO: List your supported platforms.\n\n## Attributes\n\n<table>\n  <tr>\n    <th>Key</th>\n    <th>Type</th>\n    <th>Description</th>\n    <th>Default</th>\n  </tr>\n  <tr>\n    <td><tt>['empty']['bacon']</tt></td>\n    <td>Boolean</td>\n    <td>whether to include bacon</td>\n    <td><tt>true</tt></td>\n  </tr>\n</table>\n\n## Usage\n\n### empty::default\n\nInclude `empty` in your node's `run_list`:\n\n```json\n{\n  \"run_list\": [\n    \"recipe[empty::default]\"\n  ]\n}\n```\n\n## License and Authors\n\nAuthor:: YOUR_NAME (<YOUR_EMAIL>)\n",
   "maintainer": "john q. citizen",
   "maintainer_email": "john.q.citizen@test.test",
-  "license": "All rights reserved",
+  "license": "Apache 2.0",
   "platforms": {
 
   },
@@ -35,5 +35,5 @@
   "recipes": {
 
   },
-  "version": "0.1.0"
+  "version": "0.2.0"
 }
